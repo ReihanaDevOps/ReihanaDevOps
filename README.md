@@ -16,7 +16,43 @@
 </p>
 
 ---
+---
 
+## 🧰 Tech Arsenal
+
+<h4 align="center">☁️ Cloud & Infrastructure</h4>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=aws,gcp,azure,terraform,ansible,linux,bash&theme=dark" alt="cloud" />
+</p>
+
+<h4 align="center">🐳 Containers & Orchestration</h4>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,nginx&theme=dark" alt="containers" />
+</p>
+
+<h4 align="center">⚙️ CI/CD & Automation</h4>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,githubactions,gitlab,jenkins,python,go&theme=dark" alt="cicd" />
+</p>
+
+<h4 align="center">📊 Observability</h4>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=prometheus,grafana&theme=dark" alt="observability" />
+</p>
+
+<h4 align="center">🔐 Security Toolchain</h4>
+<p align="center">
+  <img src="https://img.shields.io/badge/Trivy-1904DA?style=for-the-badge&logo=aqua&logoColor=white" />
+  <img src="https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white" />
+  <img src="https://img.shields.io/badge/OWASP%20ZAP-000000?style=for-the-badge&logo=owasp&logoColor=white" />
+  <img src="https://img.shields.io/badge/Snyk-4C4A73?style=for-the-badge&logo=snyk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vault-FFEC6E?style=for-the-badge&logo=vault&logoColor=black" />
+  <img src="https://img.shields.io/badge/Checkov-7B42BC?style=for-the-badge&logo=paloaltonetworks&logoColor=white" />
+  <img src="https://img.shields.io/badge/Gitleaks-f7768e?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Semgrep-2D8F85?style=for-the-badge&logo=semgrep&logoColor=white" />
+</p>
+
+---
 ## 🛡️ `whoami`
 
 ```yaml
@@ -60,43 +96,7 @@ flowchart LR
     style J fill:#1a1b27,stroke:#bb9af7,color:#c0caf5
 ```
 
----
 
-## 🧰 Tech Arsenal
-
-<h4 align="center">☁️ Cloud & Infrastructure</h4>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=aws,gcp,azure,terraform,ansible,linux,bash&theme=dark" alt="cloud" />
-</p>
-
-<h4 align="center">🐳 Containers & Orchestration</h4>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes,nginx&theme=dark" alt="containers" />
-</p>
-
-<h4 align="center">⚙️ CI/CD & Automation</h4>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,githubactions,gitlab,jenkins,python,go&theme=dark" alt="cicd" />
-</p>
-
-<h4 align="center">📊 Observability</h4>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=prometheus,grafana&theme=dark" alt="observability" />
-</p>
-
-<h4 align="center">🔐 Security Toolchain</h4>
-<p align="center">
-  <img src="https://img.shields.io/badge/Trivy-1904DA?style=for-the-badge&logo=aqua&logoColor=white" />
-  <img src="https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white" />
-  <img src="https://img.shields.io/badge/OWASP%20ZAP-000000?style=for-the-badge&logo=owasp&logoColor=white" />
-  <img src="https://img.shields.io/badge/Snyk-4C4A73?style=for-the-badge&logo=snyk&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vault-FFEC6E?style=for-the-badge&logo=vault&logoColor=black" />
-  <img src="https://img.shields.io/badge/Checkov-7B42BC?style=for-the-badge&logo=paloaltonetworks&logoColor=white" />
-  <img src="https://img.shields.io/badge/Gitleaks-f7768e?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Semgrep-2D8F85?style=for-the-badge&logo=semgrep&logoColor=white" />
-</p>
-
----
 
 ## 🗂️ Featured Repositories
 
